@@ -5,6 +5,9 @@ CropHub is a revolutionary mobile application designed to address the challenges
 ## Presentation Video:
 https://youtu.be/uOJB7dQEnLg?si=5VQlL5s7tiTlLw2m 
 
+## Figma design
+https://www.figma.com/file/caYWquZ4yM7cYLrwUvXn2W/VHack2024?type=design&node-id=0%3A1&mode=design&t=fhvJvpPWUWoqVFCC-1
+
 ## Key Features:
 
 ### Weather Forecast Integration: 
