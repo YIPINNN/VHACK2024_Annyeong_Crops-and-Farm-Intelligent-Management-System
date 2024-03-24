@@ -39,7 +39,10 @@ Fosters a sense of community and collaboration among farmers, promoting knowledg
 ## Conclusion:
 CropHub represents a pioneering solution tailored to the needs of newcomers in the agriculture sector. By harnessing the power of mobile technology and cutting-edge agricultural innovations, CropHub aims to revolutionize the way farming is practiced, empowering individuals to succeed in their agricultural endeavors while contributing to global food security and sustainability.
 
-
+## Team Members
+1. Tan Yi Pin
+2. Tan Yin Xuan
+3. Yong Pei Yi, Angeline
 
 
 
