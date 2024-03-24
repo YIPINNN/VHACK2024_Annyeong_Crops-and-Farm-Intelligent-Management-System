@@ -2,6 +2,9 @@
 
 CropHub is a revolutionary mobile application designed to address the challenges faced by newcomers in the agriculture sector. Leveraging the convenience and accessibility of mobile technology, CropHub provides essential tools and resources to empower individuals venturing into agriculture. With a comprehensive suite of features ranging from weather forecasting to community engagement, CropHub aims to streamline agricultural practices, enhance productivity, and foster knowledge sharing within the farming community.
 
+## Presentation Video:
+https://youtu.be/uOJB7dQEnLg?si=5VQlL5s7tiTlLw2m 
+
 ## Key Features:
 
 ### Weather Forecast Integration: 
